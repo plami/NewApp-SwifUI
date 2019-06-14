@@ -18,6 +18,7 @@ struct ArticleDetails: View {
         VStack {
             Image(uiImage: ImageWorker(with: article.urlToImage).loadImage())
                 .resizable()
+                .aspectRatio(contentMode: .fit)
                 .clipShape(Circle())
                 .overlay(
                     Circle().stroke(Color.white, lineWidth: 4))

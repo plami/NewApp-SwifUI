@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		321FCAC122B3C703008A0CA1 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 321FCAC022B3C703008A0CA1 /* README.md */; };
+		321FCAC322B3CED5008A0CA1 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 321FCAC222B3CED5008A0CA1 /* README.md */; };
 		32C4EE6522B10900008F9EC7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32C4EE6422B10900008F9EC7 /* AppDelegate.swift */; };
 		32C4EE6722B10900008F9EC7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32C4EE6622B10900008F9EC7 /* SceneDelegate.swift */; };
 		32C4EE6922B10900008F9EC7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32C4EE6822B10900008F9EC7 /* ContentView.swift */; };
@@ -26,7 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		321FCAC022B3C703008A0CA1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		321FCAC222B3CED5008A0CA1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		32C4EE6122B10900008F9EC7 /* NewsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		32C4EE6422B10900008F9EC7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		32C4EE6622B10900008F9EC7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -85,7 +85,7 @@
 		32C4EE6322B10900008F9EC7 /* NewsApp */ = {
 			isa = PBXGroup;
 			children = (
-				321FCAC022B3C703008A0CA1 /* README.md */,
+				321FCAC222B3CED5008A0CA1 /* README.md */,
 				321FCABD22B3B17A008A0CA1 /* Scenes */,
 				32C4EE8C22B27BFE008F9EC7 /* Workers */,
 				32C4EE8522B25C0A008F9EC7 /* Helpers */,
@@ -213,7 +213,7 @@
 			files = (
 				32C4EE7122B10901008F9EC7 /* LaunchScreen.storyboard in Resources */,
 				32C4EE6E22B10901008F9EC7 /* Preview Assets.xcassets in Resources */,
-				321FCAC122B3C703008A0CA1 /* README.md in Resources */,
+				321FCAC322B3CED5008A0CA1 /* README.md in Resources */,
 				32C4EE6B22B10901008F9EC7 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
