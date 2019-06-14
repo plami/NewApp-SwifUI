@@ -14,6 +14,6 @@
 
 ## Features
 
-- [x] Service Protocol and WebService classes
+- [x] Service Protocol and WebService class
 - [x] API Router for creating the URLRequest
 - [x] Protocol oriented programming
